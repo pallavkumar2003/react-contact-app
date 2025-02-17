@@ -17,7 +17,7 @@ const AddContact = (props) => {
       setEmail('');
       navigate('/');
   }
-
+//SHER
   return (
     <div className='ui main'>
       <h2>Add Contact</h2>
