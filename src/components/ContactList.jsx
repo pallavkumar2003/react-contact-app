@@ -10,6 +10,7 @@ const ContactList = ({ contacts }) => {
           <ContactCard key={contact.id} contact={contact} />
           
         ))}
+        //sherni
       </div>
       console.log(key)
       <Link to="/add">
